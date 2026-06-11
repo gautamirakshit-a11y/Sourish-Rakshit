@@ -1,0 +1,28 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer Shield Glow / Cyber cyan shadow -->
+    <path
+        android:fillColor="#00B0FF"
+        android:pathData="M54,16 C69,16 84,20 84,20 C84,53 54,92 54,92 C54,92 24,53 24,20 C24,20 39,16 54,16 Z"
+        android:alpha="0.2" />
+
+    <!-- Inner Metallic Shield Base -->
+    <path
+        android:fillColor="#161E31"
+        android:pathData="M54,20 C67,20 80,24 80,24 C80,52 54,86 54,86 C54,86 28,52 28,24 C28,24 41,20 54,20 Z"
+        android:strokeColor="#00B0FF"
+        android:strokeWidth="3.5" />
+
+    <!-- Safe Checkmark in Shield -->
+    <path
+        android:strokeColor="#00E676"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M42,52 L50,60 L66,42"
+        android:fillColor="#00000000" />
+</vector>

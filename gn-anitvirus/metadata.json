@@ -1,0 +1,6 @@
+{
+  "name": "Antivirus",
+  "description": "A comprehensive real-time antivirus, App Analyzer, and system security scanner built with Jetpack Compose.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
